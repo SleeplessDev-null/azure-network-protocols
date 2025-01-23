@@ -24,5 +24,9 @@
   First login to Microsoft Azure and create a resource group :
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/step_one.PNG?raw=true" height="90%" width="80%"  />
   <br />
+  <br />
+  Name the resource group and make sure to remember what region you have selected: 
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Resource%20Group.PNG?raw=true" height="90%" width="80%"  />
+   <br />
 </p>
 
