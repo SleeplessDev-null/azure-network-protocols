@@ -22,7 +22,8 @@
 
 <p align="center">
   First login to Microsoft Azure and create a resource group :
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  ![step_one](https://github.com/user-attachments/assets/1d54854e-3219-49c4-836a-ffa0b600aeed)
+
   <br />
 </p>
 
