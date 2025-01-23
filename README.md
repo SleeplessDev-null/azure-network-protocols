@@ -28,5 +28,8 @@
   Name the resource group and make sure to remember what region you have selected: 
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Resource%20Group.PNG?raw=true" height="90%" width="80%"  />
    <br />
+  Next navigate to azure services or search for virtual machines :
+  <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Virtual%20Machine%20nav.PNG?raw=true" height="90%" width="80%"  />
+  <br />
 </p>
 
