@@ -22,8 +22,7 @@
 
 <p align="center">
   First login to Microsoft Azure and create a resource group :
-
-
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/step_one.PNG?raw=true" height="90%" width="80%"  alt="Traffic Examination"/>
   <br />
 </p>
 
