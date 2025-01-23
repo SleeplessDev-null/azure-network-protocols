@@ -22,7 +22,7 @@
 
 <p align="center">
   First login to Microsoft Azure and create a resource group :
-  ![step_one](https://github.com/user-attachments/assets/1d54854e-3219-49c4-836a-ffa0b600aeed)
+
 
   <br />
 </p>
