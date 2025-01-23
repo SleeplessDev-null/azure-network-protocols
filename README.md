@@ -31,5 +31,7 @@
   Next navigate to azure services or search for virtual machines :
   <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Virtual%20Machine%20nav.PNG?raw=true" height="90%" width="80%"  />
   <br />
+  Now select create and choose the first option :
+   <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/VM%20set%20up-1%20.PNG?raw=true"  />
 </p>
 
