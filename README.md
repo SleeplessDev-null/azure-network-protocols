@@ -27,11 +27,18 @@
   <br />
   Name the resource group and make sure to remember what region you have selected: 
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Resource%20Group.PNG?raw=true" height="90%" width="80%"  />
-   <br />
+  <br />
+  <br />
   Next navigate to azure services or search for virtual machines :
-  <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Virtual%20Machine%20nav.PNG?raw=true" height="90%" width="80%"  />
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Virtual%20Machine%20nav.PNG?raw=true" height="90%" width="80%"  />
+  <br />
   <br />
   Now select create and choose the first option :
-   <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/VM%20set%20up-1%20.PNG?raw=true"  />
+   <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/VM%20set%20up-1%20.PNG?raw=true"  height="80%" width="80%"  />
+  <br />
+  <br />
+  In this step make sure you have your resource group selected and the region is the same as the resource group.<br /> In the image drop down select windows 10 pro for this VM. 
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/VM%20set%20up%202%20.PNG?raw=true" height="90%" width="80%"  />
+  <br />
 </p>
 
