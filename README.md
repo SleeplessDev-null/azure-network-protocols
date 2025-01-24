@@ -40,5 +40,8 @@
   In this step make sure you have your resource group selected and the region is the same as the resource group.<br /> In the image drop down select windows 10 pro for this VM. 
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/VM%20set%20up%202%20.PNG?raw=true" height="90%" width="80%"  />
   <br />
+  Next select the size, anything that has 2 vcpus and at least 8 gib of memory.  <br />
+  Username and password can be anything you like,(easy to remember) be sure to check the box at the bottom
+  <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/VM%20set%20up%203.PNG?raw=true" height="90%" width="80%"  />
 </p>
 
