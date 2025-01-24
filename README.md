@@ -47,5 +47,7 @@
 <br />
 Now on the bottom click next until you get to networking.Then create a new virtual network be sure to remember the name and leave the rest default, click review + create. Note sometimes you may have to reselect the resource group or the image for it to pass review.
   <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Networking%20set%20up%20for%20vm.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
 </p>
 
