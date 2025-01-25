@@ -85,5 +85,10 @@ Once installed the program should look this. Click the ethernet option and then 
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Pinging%20the%20linux%20vm.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
+Now we want to initiate a continuous ping to the linux VM,Inside of powershell run ping -t(your linux private ip) Then press enter, when you want to stop it press Ctrl + C:
+<br />
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Continuous%20ping.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
 </p>
 
