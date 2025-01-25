@@ -55,7 +55,8 @@ Now on the bottom click next until you get to networking.Then create a new virtu
 <br />
 <br />
   Now that both are created check to make sure both are running. click on the windows vm to get the public ip address.
-    <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/VM%20Select.PNG?raw=true" height="90%" width="80%"  />
+<br />
+  <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/VM%20Select.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
 Copy the VM ip address, right click on your pc's windows symbol on the lower left and search for remote desktop 
@@ -71,6 +72,7 @@ Then sign in with the VM's username and password. NOTE this will be the windows 
 <br />
 <br />
 Once you are signed in go to Microsoft edge browser and search for wireshark, make sure its from the official site like in the picture:
+<br />
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Wireshark%20Download.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
