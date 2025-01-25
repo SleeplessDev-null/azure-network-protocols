@@ -119,5 +119,20 @@ Now back inside of the windows VM the inbound connection should timeout which sh
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Wireshark%20ssh%20test.PNG?raw=true" height="90%" width="80%"  /> 
 <br />
 <br />
+Now in wireshark filter for dns. In powershell type nslookup (any well known website) and the ip of that website should show up followed by some traffic showing in wireshark:
+<br />
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/DNS%20traffic.PNG?raw=true" height="90%" width="80%"  /> 
+<br />
+<br />
+Head back to wireshark, we will be filtering for rdp but instead of typing rdp in the filter bar we will type tcp.port == 3389, after you should see a lot of spam in wireshark. This is because wireshark is picking up the traffic of everything displayed in the VM including your mouse movements.
+<br />
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/RDP%20traffic.PNG?raw=true" height="90%" width="80%"  /> 
+<br />
+<br />
+   
 </p>
+<br />
+<br />
+With that this concludes the walkthrough I hope that with this guide you have learned a bit about azure, virtual machines, and networking. To end all of this off be sure to delete the azure resource groups with the virtual machines so you won't be charged for the usage.
+
 
