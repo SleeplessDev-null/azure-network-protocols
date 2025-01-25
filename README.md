@@ -99,5 +99,15 @@ Before we stop the ping we need to edit the Network Security Group so back in az
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Network%20inbound%20stop%20rule1.PNG?raw=true" height="20%" width="30%"  />
 <br />
 <br />
+The setting to add the rule should look like this, click create port rule. we are doing this to show what it looks like when the traffic is blocked :
+<br />
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Network%20security%20inbound%20rule.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br /> 
+Your port rule should look like this when setting it:
+<br /> 
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Network%20security%20rule%202.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />  
 </p>
 
