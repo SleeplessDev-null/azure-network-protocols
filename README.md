@@ -76,8 +76,13 @@ Once you are signed in go to Microsoft edge browser and search for wireshark, ma
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Wireshark%20Download.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
-Once installed the program should look this. Click the ethernet option and then click the blue fin on the top left:
+Once installed the program should look this. Click the ethernet option and then click the blue fin on the top left this will enable packet capture:
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Starting%20wireshark.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+ Now in the filter bar type icmp and press enter. Then go to the windows search bar and run powershell as administrator, Once powershell is open type ping and enter the private ip of the linux VM then press enter. This will show the icmp traffic between the windows and linux machines:
+<br />
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Pinging%20the%20linux%20vm.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
 </p>
