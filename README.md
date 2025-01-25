@@ -114,6 +114,10 @@ Now back inside of the windows VM the inbound connection should timeout which sh
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Disable%20inbound%20connections.PNG?raw=true" height="90%" width="80%"  /> 
 <br />
 <br />
-   
+ Now we will ssh into the linux VM be sure to filter ssh in wireshark, we do this by typing ssh labuser-8@<private IP address> in powershell. Note this would be the username of your linux VM followed by the @ and private ip.When this is done you will be connected to the linux VM terminal and anything you type will show as traffic in wireshark. type logout in powershell and press enter to disconnect.
+<br />
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Wireshark%20ssh%20test.PNG?raw=true" height="90%" width="80%"  /> 
+<br />
+<br />
 </p>
 
