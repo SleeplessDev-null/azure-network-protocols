@@ -109,5 +109,11 @@ Your port rule should look like this when setting it:
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Network%20security%20rule%202.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />  
+Now back inside of the windows VM the inbound connection should timeout which should show inside of powershell. After this go back to the port rule section and in azure and delete the Network Security Group rule you created, should be a trash bin button next to the rule, click that to delete it and the connection should run again 
+<br />  
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Disable%20inbound%20connections.PNG?raw=true" height="90%" width="80%"  /> 
+<br />
+<br />
+   
 </p>
 
