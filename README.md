@@ -71,9 +71,13 @@ Then sign in with the VM's username and password. NOTE this will be the windows 
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Login%20to%20the%20windows%20vm.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
-Once you are signed in go to Microsoft edge browser and search for wireshark, make sure its from the official site like in the picture:
+Once you are signed in go to Microsoft edge browser and search for wireshark, make sure its from the official site like in the picture and run the exe leave everything default during the install
 <br />
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Wireshark%20Download.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+Once installed the program should look this. Click the ethernet option and then click the blue fin on the top left:
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Starting%20wireshark.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
 </p>
