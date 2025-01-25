@@ -54,5 +54,22 @@ Now on the bottom click next until you get to networking.Then create a new virtu
   <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Linux-vm-setup.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
+  Now that both are created check to make sure both are running. click on the windows vm to get the public ip address.
+    <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/VM%20Select.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+Copy the VM ip address, right click on your pc's windows symbol on the lower left and search for remote desktop 
+ <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Windows%20IP.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+In remote desktop paste the VM's ip address then click connect 
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/IP%20for%20Remote%20Desktop.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+Then sign in with the VM's username and password. NOTE this will be the windows VM :
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Login%20to%20the%20windows%20vm.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+
 </p>
 
