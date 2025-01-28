@@ -20,6 +20,11 @@
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
+
+<h2>This is a walkthrough on how to deploy virtual machines with the use of azure. We also will observe network traffic of different network protocols with wireshark as our tool.  </h2>
+
+
+
 <p align="center">
   First login to Microsoft Azure and create a resource group :
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/step_one.PNG?raw=true" height="90%" width="80%"  />
