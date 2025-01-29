@@ -124,6 +124,11 @@ Now back inside of the windows VM the inbound connection should timeout which sh
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Wireshark%20ssh%20test.PNG?raw=true" height="90%" width="80%"  /> 
 <br />
 <br />
+We will now in powershell type ipconfig /renew to attempt to give our VM a new ip address, make sure to have dhcp filterd in wireshark 
+<br />
+<img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/DHCP%20traffic.PNG?raw=true" height="90%" width="80%"  /> 
+<br />
+<br />
 Now in wireshark filter for dns. In powershell type nslookup (any well known website) and the ip of that website should show up followed by some traffic showing in wireshark:
 <br />
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/DNS%20traffic.PNG?raw=true" height="90%" width="80%"  /> 
