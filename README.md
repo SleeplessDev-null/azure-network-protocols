@@ -143,6 +143,6 @@ Head back to wireshark, we will be filtering for rdp but instead of typing rdp i
 </p>
 <br />
 <br />
-With that this concludes the walkthrough I hope that with this guide you have learned a bit about azure, virtual machines, and networking. To end all of this off be sure to delete the azure resource groups with the virtual machines so you won't be charged for the usage.
+With that this concludes the walkthrough I hope with this guide you have learned a bit about azure, virtual machines, and networking. To end all of this off be sure to delete the azure resource groups with the virtual machines so you won't be charged for the usage.
 
 
