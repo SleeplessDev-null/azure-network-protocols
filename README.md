@@ -75,6 +75,7 @@ For the network test we need 2 virtual machines so next we will do the same proc
 <br />
 Now that both are created check to make sure both are running. click on the windows vm to get the public ip address.
 <br />
+<br />
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Images/VM%20Select.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
