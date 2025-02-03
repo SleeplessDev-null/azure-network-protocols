@@ -53,6 +53,7 @@ In this step make sure you have your resource group selected and the region is t
 <br />  
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Images/VM%20set%20up%202%20.PNG?raw=true" height="90%" width="80%"  />
 <br />
+<br /> 
 Next select the size, anything that has 2 vcpus and at least 8 gib of memory.  <br />
 Username and password can be anything you like,(easy to remember) be sure to check the box at the bottom:
 <br />
@@ -68,6 +69,7 @@ Now on the bottom click next until you get to networking.Then create a new virtu
 <br />
 For the network test we need 2 virtual machines so next we will do the same process but select a linux image this time. Make sure to select password at the authentication type section. Note: use the same region and resource group as the other VM.
 <br />
+<br /> 
 <img src="https://github.com/SleeplessDev-null/azure-network-protocols/blob/main/Images/Linux-vm-setup.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
